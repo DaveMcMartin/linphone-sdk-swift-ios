@@ -64,7 +64,7 @@ Enabled features:
 
 - Open your Xcode Project
 - Menu File -> Add Package Dependencies
-- On top right entry field enter https://gitlab.linphone.org/BC/public/linphone-sdk-swift-ios
+- On top right entry field enter https://github.com/DaveMcMartin/linphone-sdk-swift-ios
 - Select your target
 - in your classes add :
 	import linphonesw (or linphone for C functions)
